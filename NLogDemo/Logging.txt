@@ -1,0 +1,34 @@
+2023-04-10 09:38:01.5118|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-10 09:38:01.5373|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-10 09:38:09.9270|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-10 09:38:09.9577|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-10 09:45:00.0857|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-10 09:45:00.1175|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-10 09:45:46.9544|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-10 09:45:46.9802|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-11 07:40:42.0764|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-11 07:40:42.1108|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-11 07:41:09.0148|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-11 07:41:09.0480|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-11 07:44:02.9948|DEBUG|NLogDemo.Nlog|The program entered else block
+2023-04-11 07:44:03.0194|INFO|NLogDemo.Nlog|The value sucefully addded
+2023-04-11 07:56:49.3734|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 07:56:49.4085|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:02:22.6301|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:02:22.6485|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:12:46.1827|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:12:46.2166|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:15:27.7419|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:15:27.7694|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:19:15.5626|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:19:15.5928|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:22:43.8934|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:22:43.9319|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:34:03.5706|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:34:03.6055|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:34:14.4998|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:34:14.5347|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-11 08:34:40.2389|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-11 08:34:40.2790|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-16 21:18:49.4401|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-16 21:18:49.4764|INFO|NLogDemo.Nlog|Sum Method passed, Results30

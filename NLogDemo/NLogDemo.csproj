@@ -93,6 +93,7 @@
   <ItemGroup>
     <Compile Include="AddNumbers.cs" />
     <Compile Include="ArrayListCollection.cs" />
+    <Compile Include="DictionaryCollection.cs" />
     <Compile Include="Nlog.cs">
       <DependentUpon>NLog.xsd</DependentUpon>
     </Compile>

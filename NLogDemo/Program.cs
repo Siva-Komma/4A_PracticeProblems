@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,6 +14,7 @@ namespace NLogDemo
             Console.WriteLine("Hello, World!");
             AddNumbers num = new AddNumbers();
             num.Sum(10, 20);
+            ArrayListCollection.Collection();
             Console.ReadLine();
         }
     }

@@ -32,3 +32,11 @@
 2023-04-11 08:34:40.2790|INFO|NLogDemo.Nlog|Sum Method passed, Results30
 2023-04-16 21:18:49.4401|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
 2023-04-16 21:18:49.4764|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-23 20:52:19.1154|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-23 20:52:19.1432|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-23 21:34:29.7109|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-23 21:34:29.7493|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-23 21:40:08.1481|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-23 21:40:08.1819|INFO|NLogDemo.Nlog|Sum Method passed, Results30
+2023-04-23 21:40:41.3098|DEBUG|NLogDemo.Nlog|Debug Successfull : Sum()
+2023-04-23 21:40:41.3684|INFO|NLogDemo.Nlog|Sum Method passed, Results30

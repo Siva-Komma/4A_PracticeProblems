@@ -13,9 +13,6 @@ namespace NLogDemo
             Console.WriteLine("Hello, World!");
             AddNumbers num = new AddNumbers();
             num.Sum(10, 20);
-            num.arrayInfo();
-            num.Startrectangle();
-            num.SumofMatric();
             Console.ReadLine();
         }
     }
